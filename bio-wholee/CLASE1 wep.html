@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+	<meta charset="iso-8595-1" />
+	<meta name="description" content="pagina de enseñanza html5" />
+	<meta name="keywords" content="html5, css3, javascript, diseño web" />
+	<title>bio whole</title>
+	<link rel="stylesheet" href="mihojadeestilos.css" />
+
+</head>
+
+<body>
+	<img src="g:\programa\escritorio\images.jpg">
+	<header id="cabeceraweb">
+		<h1>bio-whole</h1>
+	</header>
+
+	<nav id="nav">
+
+		<ul>
+			<li><a href="g:\programa\escritorio\escuela walter\7 9\viernes\pagina de empresa\vision y mision.html"target="_blank">vision y mision</a></li>
+			<li><a href="file:///G:/programa/escritorio/escuela%20walter/7%209/viernes/pagina%20de%20empresa/quienes%20somos.html">quienes somos</a></li>
+			<li><a href="file:///G:/programa/escritorio/escuela%20walter/7%209/viernes/pagina%20de%20empresa/a%20que%20nos%20dedicamos.html">a que nos dedicamos</a></li>
+			<li><a href="file:///G:/programa/escritorio/escuela%20walter/7%209/viernes/pagina%20de%20empresa/productos.html">productos</a></li>
+			<li><a href="file:///G:/programa/escritorio/escuela%20walter/7%209/viernes/pagina%20de%20empresa/trabaja%20con%20nosotros.html">trabaja con nosotros</a></li>
+		</ul>
+
+	</nav>
+
+	<aside id="barralateral">
+		<blockquoter>elementos que pondriamos en barra lateral</blockquote>
+			<blockquoter>1ro elemento</blockquote>
+				<blockquoter>2do elemento</blockquote>
+					<blockquoter>3ero elemento</blockquote>
+
+	</aside>
+
+	<section id="primertitulo">
+		<article>
+			<header>
+				<h1><em>walter va aprender?</em></h1>
+			</header>
+			<p>estoy aprendiendo a armar esta wea</p>
+			<p>estoy creo que aprendi A</p>
+			<footer>
+				<p><strong> tu comentario chinga tu gato</strong> </p>
+			</footer>
+		</article>
+
+		<article>
+			<header>
+				<h1>walter aprendio a crear esto?</h1>
+			</header>
+			<lapso>ya lo se usar JAAJAJAJA
+			</lapso>
+		</article>
+
+		<article>
+			<header>
+				<h1>walter anda fuerte xD?</h1>
+			</header>
+			<p><mark>anda fuerte esa moto?</mark></p>
+			<p><a href="https://www.instagram.com/p/B0SChjLlFtjsyR4e1aJFu2ZB6bitqwlCqrxRpo0/">esta es la mejor moto que
+					existe</a></p>
+			<p><cite> si se rompe no sirvve, dijo el cordobes</cite></p>
+			<footer>
+				<p>dejame tu comentario de mierda</p>
+			</footer>
+			<time datetime="2022/08/10" pubdate>esto se creo 10/08/2022></time>
+		</article>
+	</section>
+
+	<footer id="footer">
+		<address>llamame bebe 3484227491</address>
+		<small>
+			esto esta reservado por mi mismo a
+		</small>
+	</footer>
+
+</body>
+
+</html>
+</SE CIERRA LA ETIQUETA>
