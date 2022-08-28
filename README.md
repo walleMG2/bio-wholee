@@ -1,1 +1,1 @@
-<h1><a href="https://github.com/walleMG2/bio-wholee/blob/main/bio-wholee/CLASE1%20wep.html">bio whole </a></h1>
+<h1><a href="file:///G:/programa/escritorio/escuela%20walter/7%209/viernes/pagina%20de%20empresa/bio-wholee/CLASE1%20wep.html">bio whole </a></h1>
